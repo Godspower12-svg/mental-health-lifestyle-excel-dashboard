@@ -18,7 +18,7 @@ Before building visualizations, the raw dataset underwent thorough auditing and 
 ## 🎯 Key Questions & Findings
 
 * **Does higher screen time worsen mental health?**  
-  **Yes.** From the **mental health rates by daily screen time charts**, we can see that a Heavy daily screen users report significantly higher rates of **anxiety (58.08%)** and **depression (56.37%)** compared to low screen users (**43.00%** anxiety and **42.50%** depression) a 14–15 percentage point jump, while overall stress and burnout remain relatively steady across tiers.
+  **Yes.** According to **mental health rates by daily screen time charts**, we can see that a Heavy daily screen users report significantly higher rates of **anxiety (58.08%)** and **depression (56.37%)** compared to low screen users (**43.00%** anxiety and **42.50%** depression) a 14–15 percentage point jump, while overall stress and burnout remain relatively steady across tiers.
  * **Business Recommendation:**
 Management should consider:
 * Monitoring employees with consistently high screen exposure.
