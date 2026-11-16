@@ -1,7 +1,7 @@
 # 📊 Digital Habits & Mental Well-Being Analysis (Excel Dashboard)
 
 ## 📌 Executive Summary
-This project explores how daily digital habits, specifically total screen time, social media usage, and nighttime device exposure, impact mental well-being, indicators (burnout, anxiety, depression, and stress) across demographic segments. Built entirely in **Microsoft Excel**, this interactive dashboard translates raw survey data into actionable insights for workplace and student wellness initiatives.
+This interactive Excel dashboard looks at how everyday screen habits, like total screen time, social media use, and late-night scrolling affect burnout, anxiety, depression, and stress across different groups, turning raw survey data into practical ideas for workplace and student wellness.
 
 ![Digital Habits Dashboard](Health-Dashboard.png)
 
